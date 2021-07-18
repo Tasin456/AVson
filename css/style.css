@@ -341,7 +341,7 @@ h1 {
   align-items: center;
   text-align: center;
 
-  background-color: #f1f8ff;
+  /* background-color: #f1f8ff; */
 }
 .guest {
   display: grid;
