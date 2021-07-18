@@ -192,6 +192,8 @@ main {
   border: 1px solid black;
   font-family: cursive;
   font-weight: bolder;
+  padding: 8px 15px;
+  
 }
 .date1 {
   margin: 5vh;
@@ -201,6 +203,8 @@ main {
   border-radius: 1vh;
   font-family: cursive;
   font-weight: bolder;
+  padding: 8px 15px;
+
 }
 .date2 {
   margin: 5vh;
@@ -210,6 +214,8 @@ main {
   border-radius: 1vh;
   font-family: cursive;
   font-weight: bolder;
+  padding: 8px 15px;
+
 }
 
 
@@ -220,6 +226,8 @@ main {
   border: 1px solid black;
   border-radius: 1vh;
   color: black;
+  padding: 12px 34px;
+
 }
 #option2 {
   height: 10vh;
@@ -228,6 +236,7 @@ main {
   border: 1px solid black;
   border-radius: 1vh;
   color: black;
+  padding: 12px 34px;
 }
 
 .now {
@@ -287,10 +296,7 @@ main {
   padding: 3vh;
   font-size: 8vh;
 }
-#trophy {
-  padding: 3vh;
-  font-size: 8vh;
-}
+
 
 .number {
   font-size: 8vh;
@@ -348,6 +354,7 @@ h1 {
   transition: 1s;
   border-radius: 1vh;
   box-shadow: 1px 2px 3px 2px;
+  padding: 15px 34px;
 }
 .text7:hover {
   background-color: #0f172b;
