@@ -124,7 +124,7 @@ main {
   background-image: linear-gradient(
     rgba(4,9,30,0.7), rgba(4,9,30,0.7)
     ),
-    url('../images/THE-BVLGARI-VILLA-THE-BVLGARI-RESORT-DUBAI-USA.jpg');
+    url(THE-BVLGARI-VILLA-THE-BVLGARI-RESORT-DUBAI-USA.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -442,7 +442,7 @@ h1 {
   width: 100%;
   height: 100vh;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url('../images/pexels-photo-1458457.jpeg');
+    url(pexels-photo-1458457.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
