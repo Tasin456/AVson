@@ -64,7 +64,7 @@
 @media  screen and (max-width: 805px) {
 
   .about{
-    height: 160vh;
+   height: 160vh;
   }
   .img1{
     width: 39vw;
@@ -94,7 +94,7 @@
   .latest{
     height: 90vh;
     width: 90vw;
-    margin-top: 60vh;
+    margin-top: 2vh;
   }
   .guest{
    margin-left: 10vw;
